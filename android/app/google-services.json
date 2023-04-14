@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729482069065",
+    "project_id": "medisheild-fee18",
+    "storage_bucket": "medisheild-fee18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729482069065:android:05ede5a8374fe51e326b98",
+        "android_client_info": {
+          "package_name": "com.example.schedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729482069065-jcktbescgi29nlu6e11adqiped4297u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_mQfzLRxbEM1Ifswx4w2iqbRc6YnjVlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729482069065-jcktbescgi29nlu6e11adqiped4297u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

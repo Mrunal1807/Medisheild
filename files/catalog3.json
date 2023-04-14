@@ -1,0 +1,103 @@
+{
+  "product":[
+    {
+      "id": 1,
+      "pills_name": "Parcetemol",
+      "Pills_Amount": 1,
+      "Type": "pills",
+      "Starting_date": "31/1/2023",
+      "How_long":5,
+      "Time": "11.12 PM",
+      "remind": 10
+
+    },
+    {
+      "id": 2,
+      "pills_name": "Parcetemol",
+      "Pills_Amount": 1,
+      "Type": "pills",
+      "Starting_date": "31/1/2023",
+      "How_long":5,
+      "Time": "11.12 PM",
+      "remind": 10
+
+    },
+    {
+      "id": 3,
+      "pills_name": "Parcetemol",
+      "Pills_Amount": 1,
+      "Type": "pills",
+      "Starting_date": "31/1/2023",
+      "How_long":5,
+      "Time": "11.12 PM",
+      "remind": 10
+
+    },
+    {
+      "id": 4,
+      "pills_name": "Parcetemol",
+      "Pills_Amount": 1,
+      "Type": "pills",
+      "Starting_date": "31/1/2023",
+      "How_long":5,
+      "Time": "11.12 PM",
+      "remind": 10
+
+    },
+    {
+      "id": 5,
+      "pills_name": "Parcetemol",
+      "Pills_Amount": 1,
+      "Type": "pills",
+      "Starting_date": "31/1/2023",
+      "How_long":5,
+      "Time": "11.12 PM",
+      "remind": 10
+
+    },
+    {
+      "id": 6,
+      "pills_name": "Parcetemol",
+      "Pills_Amount": 1,
+      "Type": "pills",
+      "Starting_date": "31/1/2023",
+      "How_long":5,
+      "Time": "11.12 PM",
+      "remind": 10
+
+    },
+    {
+      "id": 7,
+      "pills_name": "Parcetemol",
+      "Pills_Amount": 1,
+      "Type": "pills",
+      "Starting_date": "31/1/2023",
+      "How_long":5,
+      "Time": "11.12 PM",
+      "remind": 10
+
+    },
+    {
+      "id": 8,
+      "pills_name": "Parcetemol",
+      "Pills_Amount": 1,
+      "Type": "pills",
+      "Starting_date": "31/1/2023",
+      "How_long":5,
+      "Time": "11.12 PM",
+      "remind": 10
+
+    },
+    {
+      "id": 9,
+      "pills_name": "Parcetemol",
+      "Pills_Amount": 1,
+      "Type": "pills",
+      "Starting_date": "31/1/2023",
+      "How_long":5,
+      "Time": "11.12 PM",
+      "remind": 10
+
+    }
+  ]
+}

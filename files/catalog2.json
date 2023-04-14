@@ -1,0 +1,75 @@
+{
+    "product":[
+      {
+        "id": 1,
+        "name": "Dr Shreenivas kelkar",
+        "speciality": "Eye specialist",
+        "contact": 9284970473,
+        "email": "sgkelkar99@gmail.com",
+        "Location": "mu post bavadhan,tal.Wai,dis.Satara",
+        "price": 50
+
+      },
+      {
+        "id": 2,
+        "name": "Dr Shreenivas kelkar",
+        "speciality": "Eye specialist",
+        "contact": 9284970473,
+        "email": "sgkelkar99@gmail.com",
+        "Location": "mu post bavadhan,tal.Wai,dis.Satara",
+        "price": 50
+
+      },
+      {
+        "id": 3,
+        "name": "Dr Shreenivas kelkar",
+        "speciality": "Eye specialist",
+        "contact": 9284970473,
+        "email": "sgkelkar99@gmail.com",
+        "Location": "mu post bavadhan,tal.Wai,dis.Satara",
+        "price": 50
+
+      },
+      {
+        "id": 4,
+        "name": "Dr Shreenivas kelkar",
+        "speciality": "Eye specialist",
+        "contact": 9284970473,
+        "email": "sgkelkar99@gmail.com",
+        "Location": "mu post bavadhan,tal.Wai,dis.Satara",
+        "price": 50
+
+      },
+      {
+        "id": 5,
+        "name": "Dr Shreenivas kelkar",
+        "speciality": "Eye specialist",
+        "contact": 9284970473,
+        "email": "sgkelkar99@gmail.com",
+        "Location": "mu post bavadhan,tal.Wai,dis.Satara",
+        "price": 50
+
+      },
+      {
+        "id": 6,
+        "name": "Dr Shreenivas kelkar",
+        "speciality": "Eye specialist",
+        "contact": 9284970473,
+        "email": "sgkelkar99@gmail.com",
+        "Location": "mu post bavadhan,tal.Wai,dis.Satara",
+        "price": 50
+
+      },
+      {
+        "id": 7,
+        "name": "Dr Shreenivas kelkar",
+        "speciality": "Eye specialist",
+        "contact": 9284970473,
+        "email": "sgkelkar99@gmail.com",
+        "Location": "mu post bavadhan,tal.Wai,dis.Satara",
+        "price": 50
+
+      }
+    ]
+  
+}
